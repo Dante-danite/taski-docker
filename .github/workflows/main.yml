@@ -53,7 +53,7 @@ jobs:
         python manage.py test
 # .github/workflows/main.yml
 
-# Тут задачи тестирования и сборки образа
+# Тут задачи тестирования и сборки образ
 # ...
 # Добавляем новую задачу: деплой приложения
   build_gateway_and_push_to_docker_hub:
